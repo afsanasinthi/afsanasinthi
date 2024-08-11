@@ -15,7 +15,7 @@
 
 
 ## :sassy_man:  About me
-- :school: I am a `Junior developer` at The Red it
+- :school: I am a former `developer` at The Red it
 - :trophy: `Researcher` 3rd 2022
 - :technologist: I love using Software as a solution for every `Problem`
 - :student: I’m currently learning: `Masters in Computer Science` and `Software Engineering` Brac University.
