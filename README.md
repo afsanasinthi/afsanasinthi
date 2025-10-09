@@ -23,7 +23,6 @@
 ## 🧪 Research Profile  
 
 - 🔬 **Fields:** Cloud Computing · Edge Caching · Federated Learning · Edge AI  
-- 🧩 **Focus:** Model caching & optimization for cloud–edge collaboration  
 - 🏫 **Lab:** [Intelligent Computing and Security Laboratory (ICNS Lab)](https://icns.khu.ac.kr/)  
 - 🌐 **Google Scholar:** [View Profile](https://scholar.google.com/citations?user=2Jeb1L8AAAAJ&hl=en)  
 
