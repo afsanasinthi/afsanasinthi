@@ -2,12 +2,8 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=UI%2FUX+Developer;Frontend+Developer;AI+Researcher;Cloud+Computing+Enthusiast&center=true&width=500&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=PhD+Student+in+AI;AI+Researcher;Web+Developer;UI%2FUX+Designer&center=true&width=500&height=50">
   </a>
-</p>
-
-<p align="center"> 
-	<img src="[https://komarev.com/ghpvc/?username=afsanasinthi&label=Profile%20views&color=0e75b6&style=plastic](https://scholar.google.com/citations?user=2Jeb1L8AAAAJ&hl=en)" alt="profile views" /> 
 </p>
 
 ---
@@ -26,29 +22,21 @@
 
 ## 🧪 Research Profile  
 
-- 🔬 **Research Fields:** Cloud Computing, Edge Caching, Federated Learning, Edge AI  
-- 🧩 **Focus:** Efficient model caching and AI-driven optimization for cloud-edge collaboration  
+- 🔬 **Fields:** Cloud Computing · Edge Caching · Federated Learning · Edge AI  
+- 🧩 **Focus:** Model caching & optimization for cloud–edge collaboration  
 - 🏫 **Lab:** [Intelligent Computing and Security Laboratory (ICNS Lab)](https://icns.khu.ac.kr/)  
-- 🌐 **Google Scholar:** [View Profile](https://scholar.google.com) *(add your link)*  
+- 🌐 **Google Scholar:** [View Profile](https://scholar.google.com/citations?user=2Jeb1L8AAAAJ&hl=en)  
 
 ---
 
 ## 🛠️ Core Skills  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=plastic&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white" alt="CSS3"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Web%20Development-121212?style=plastic" alt="Web Development"/>
+  <img src="https://img.shields.io/badge/UI%2FUX%20Design-F24E1E?style=plastic&logo=figma&logoColor=white" alt="UI/UX Design"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white" alt="PyTorch"/>
 </p>
 
 ---
@@ -62,11 +50,12 @@
 
 ## 🌐 Connect with Me  
 <p align="center">
-  <a href="mailto:afsana.sinthi@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://github.com/afsanasinthi"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/afsana-kabir-sinthia"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:afsana.sinthi@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://github.com/afsanasinthi"><img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/afsana-kabir-sinthia"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://scholar.google.com/citations?user=2Jeb1L8AAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=plastic&logo=google-scholar&logoColor=white" alt="Google Scholar"/></a>
 </p>
 
 ---
 
-⭐ *"Transforming ideas into intelligent, human-centered systems bridging AI, cloud, and edge computing."*
+⭐ *"Designing human-centered experiences and intelligent systems across web, cloud, and edge."*
